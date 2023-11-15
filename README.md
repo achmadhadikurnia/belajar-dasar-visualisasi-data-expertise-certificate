@@ -1,4 +1,4 @@
-# Dicoding: Belajar Dasar Visualisasi Data
+# Belajar Dasar Visualisasi Data
 Pelajari teknik dasar untuk representasi hasil secara visual sehingga dapat menceritakan dan mempresentasikan data secara efektif.
 
 ## Class
